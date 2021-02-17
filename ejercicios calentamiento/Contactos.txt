@@ -1,0 +1,9 @@
+ Nombre: cristian
+ Apellido: tabares
+ Numero telefono: 2876991
+ Nombre: luisa
+ Apellido: luna
+ Numero telefono: 2810712
+ Nombre: carlos
+ Apellido: andres
+ Numero telefono: 123456
